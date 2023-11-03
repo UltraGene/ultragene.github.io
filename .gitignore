@@ -3,6 +3,17 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+tmp
+site
+.tags
+.DS_Store
+TODO.md
+release_notes.md
+.idea
+.vscode
+
+
 # C extensions
 *.so
 
